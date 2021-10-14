@@ -28,7 +28,7 @@ int main() {
     } catch (std::invalid_argument) {
         std::cout << userInput << " is not valid input.";
     }
-    
+
     // output
     std::cout << std::endl;
     std::cout << std::endl;
